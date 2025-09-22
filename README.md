@@ -1,2 +1,3 @@
 # clone-tabsnews
-Projecto para aprender programação 
+
+Projecto para aprender programação
